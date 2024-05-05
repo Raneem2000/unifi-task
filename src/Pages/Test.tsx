@@ -1,5 +1,5 @@
 import Footer from '../components/Footer';
-import Topbar from '../components/topBar';
+import Topbar from '../components/Topbar';
 import Bike from './Bikes/Bike';
 const Test = () => {
   return (
